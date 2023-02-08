@@ -2,17 +2,12 @@
     //  Assignment1.java          Author: Nicolas Viera
     //***************************************************************************************
 
-
-
     import java.util.Random;
     import java.util.Scanner;
 
-    public class Assignment1
-{
+    public class Assignment1 {
 
-
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
       //--------------------------------------------------------------------------------------
       // Code that dislays the my initials (NV)
       //
@@ -89,9 +84,5 @@
 
       System.out.println("Now generating fianl results...");
       System.out.print("Combination of all results  are : " + celsiusTemp + Character3 + number);
-
-
-
     }
-
 }
